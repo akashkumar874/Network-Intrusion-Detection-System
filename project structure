@@ -1,0 +1,8 @@
+📁 intrusion-detection-task
+├── rules
+│   └── local.rules
+├── configs
+│   └── snort.conf
+├── screenshots
+│   └── alert-output.png
+├── README.md
