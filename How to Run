@@ -1,0 +1,5 @@
+## 🛠 How to Run
+1. Install Snort:
+   ```bash
+   sudo apt update
+   sudo apt install snort
